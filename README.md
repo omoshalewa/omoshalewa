@@ -1,0 +1,2 @@
+# omoshalewa
+GIT task
